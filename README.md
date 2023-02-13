@@ -110,6 +110,7 @@
 
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
+| ATMega328P | TQFP-32 | C14877 |
 | STM32F103C8T6 | QFP | C8734 |
 
 ### Communication IC
