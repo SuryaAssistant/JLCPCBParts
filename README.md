@@ -20,6 +20,7 @@
 | 10 | 0805 | C17415 |
 | 120 | 0603 | C22787 |
 | 120 | 0805 | C17437 |
+| 220 | 0805 | C17557 |
 | 1k | 0603 | C21190 |
 | 1k | 0805 | C17513 |
 | 4.7k | 0603 | C23162 |
@@ -33,19 +34,23 @@
 | 453k | 0603 | C170607 |
 | 453k | 0805 | C17702 |
 | 1M | 0603 | C22935 |
+| 1M | 0805 | C325768 |
 
 ### Capacitor
 
 | Capacitor Value | Package | JLCPCB Parts|
 |---|---|---|
 | 12pF | 0603 | C182482 |
+| 12pF | 0805 | C1792 |
 | 20pF | 0603 | C165732 |
+| 20pF | 0805 | C1798 |
 | 56pF | 0603 | C39148 |
 | 56pF | 0805 | C1828 |
 | 1nF | 1206 | C9196 |
 | 2.2nF | 0603 | C1604 |
 | 2.2nF | 0805 | C17521 |
 | 3.3nF | 0603 | C1613 |
+| 3.3nF | 0805 | C396726 |
 | 10nF | 0603 | C57112 |
 | 10nF | 0805 | C1710 |
 | 100nF | 0603 | C14663 |
@@ -68,7 +73,7 @@
 |---|---|---|
 | LED | 0603 | C89809 |
 | LED | 0603 | C85323 |
-| LED | 0603 | C84256 |
+| LED-R | 0805 | C84256 |
 | SS310 | SOD-123 | C2923964 |
 | SS310 | SMA | C15874 |
 
@@ -89,7 +94,7 @@
 
 | Mosfet Name | Package | Type | JLCPCB Parts|
 |---|---|---|---|
-| IR2104SPBF | SOIC-8N | Driver | C2960 |
+| IR2104SPBF | SOIC-8 | Driver | C2960 |
 
 ### Crystal
 
@@ -111,16 +116,19 @@
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
 | ATMega328P | TQFP-32 | C14877 |
-| STM32F103C8T6 | QFP | C8734 |
+| ESP32-WROOM-32D | SMD | C473012 |
+| ESP32-WROOM-32U | SMD | C328062 |
+| STM32F103C8T6 |  | C8734 |
 
 ### Communication IC
 
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
-| CAN-VP230 | SOIC-127 | C12084 |
+| CAN-VP230 | SOIC-8 | C12084 |
 
 ### Other IC
 
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
+| ANDC-ADS1115 |  | C37593 |
 | CURR_SEN-INA213 | SOT-65 | C129346 |
