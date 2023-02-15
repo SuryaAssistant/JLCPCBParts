@@ -105,11 +105,12 @@
 
 ### Voltage Regulator
 
-| Regulator Value | Package | JLCPCB Parts|
-|---|---|---|
-| AMS1117-3.3 | SOT-229 | C6186 |
-| LM5164 |  | C477928 |
-| XL1509-5.0 |  | C61063 |
+| Regulator Value | Package | Vout | Iout | JLCPCB Parts|
+|---|---|---|---|---|
+| AMS1117-3.3 | SOT-229 | 3.3V | 800mA | C6186 |
+| LM5164 |  | | | C477928 |
+| XC6206P332MR | SOT-23-L | 3.3V | 200mA | C61063 |
+| XL1509-5.0 | | | | C61063 |
 
 ### Microcontroller IC
 
