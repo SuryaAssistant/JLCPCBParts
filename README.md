@@ -86,9 +86,12 @@
 
 ### Mosfet
 
-| Mosfet Name | Package | Type | JLCPCB Parts|
-|---|---|---|---|
-| NCEP15T14D |  | N | C775786 |
+| Mosfet Name | Package | Type | Vds | Ids | I@100C | RdsOn | JLCPCB Parts|
+|---|---|---|---|---|---|---|---|
+| CRTS095N12N | TO-263 | N | 120 V | 112 A | 71 A | 7 m | C841374 |
+| CRSS082N15N | TO-263 | N | 150 V | 120 A | 81 A | 8.2 m | C455310 |
+| IPB072N15N3 | TO-263 | N | 150 V | 100 A | 93 A | 7.2 m | C459162 |
+| NCEP15T14D | TO-263 | N | 150 V | 140 A | 100 A | 6.2 m | C775786 |
 
 ### Driver & Optocoupler
 
