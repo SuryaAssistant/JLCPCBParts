@@ -131,5 +131,6 @@
 
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
-| ANDC-ADS1115 |  | C37593 |
+| ADC12-ADS1013 | VSSOP-10-0.5 | C193969 |
+| ADC16-ADS1115 | VSSOP-10-0.5 | C37593 |
 | CURR_SEN-INA213 | SOT-65 | C129346 |
