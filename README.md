@@ -98,7 +98,7 @@
 ### Fuse
 
 | Fuse Name | Package | Current (A) | Voltage (V) | JLCPCB Parts|
-|---|---|---|---|---_
+|---|---|---|---|---|
 | Littelfuse 0466002.NRHF | 1206 | 2 | 63 | C3105 |
 
 
