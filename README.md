@@ -12,6 +12,7 @@
 | Resistor Value | Package | JLCPCB Parts|
 |---|---|---|
 | 0.0025 | BVS | C558630 |
+| 0.025 | 2512 | C4354894 |
 | 2.2 | 0603 | 22939 |
 | 2.2 | 0805 | C17521 |
 | 3.3 | 2010 | C270971 |
@@ -23,6 +24,7 @@
 | 150 | 0805 | C17471 |
 | 220 | 0805 | C17557 |
 | 300 | 0805 | C17617 |
+| 470 | 0805 | C104343 |
 | 1k | 0603 | C21190 |
 | 1k | 0805 | C17513 |
 | 4.7k | 0603 | C23162 |
@@ -66,8 +68,7 @@
 
 | Diode Name | Package | JLCPCB Parts|
 |---|---|---|
-| 68uH |  | C207853 |
-| 100uH |  | C380060 |
+| 100uH |  | C2894722 |
 
 ### Diode
 
@@ -84,7 +85,7 @@
 | Transistor Name | Package | Type | JLCPCB Parts|
 |---|---|---|---|
 | MMBT2222A | SOT-23 | N | C8512 |
-| MMBT2907 | SOT-23 | P | C98551 |
+| MMBT2907 | SOT-23 | P | C43692 |
 
 ### Mosfet
 
@@ -94,6 +95,7 @@
 | CRSS082N15N | TO-263 | N | 150 V | 120 A | 81 A | 8.2 m | C455310 |
 | IPB072N15N3 | TO-263 | N | 150 V | 100 A | 93 A | 7.2 m | C459162 |
 | NCEP15T14D | TO-263 | N | 150 V | 140 A | 100 A | 6.2 m | C775786 |
+| NCEP1520K | TO-252 | N | 150V | 20 A | 14 A | 59 m | C341717 |
 
 ### Fuse
 
@@ -139,10 +141,16 @@
 |---|---|---|
 | CAN-VP230 | SOIC-8 | C12084 |
 
-### Other IC
+### Sensor IC
 
 | IC Value | Package | JLCPCB Parts|
 |---|---|---|
 | ADC12-ADS1013 | VSSOP-10-0.5 | C193969 |
 | ADC16-ADS1115 | VSSOP-10-0.5 | C37593 |
 | CURR_SEN-INA213 | SOT-65 | C129346 |
+
+### Other IC
+
+| IC Value | Package | JLCPCB Parts|
+|---|---|---|
+| DS1307Z Clock | - | C9868 |
